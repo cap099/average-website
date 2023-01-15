@@ -1,0 +1,75 @@
+html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(37, 137, 105);
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: max(calc(15px + 2vmin), 40px);
+  color: white;
+  height: 9vh;
+  font-weight: bold;
+  padding: 110px;
+}
+
+.headerText {
+    outline: 3px solid white;
+    margin: 30px;
+    padding: 5px;
+    min-width: 265px;
+}
+
+.Body {
+    display: flex;
+    justify-content: center;
+}
+
+.bodycontent {
+    justify-content: center;
+    max-width: 800px;
+
+}
+
+.contact-info {
+    padding-bottom: 40px;
+}
+
+.contactInfoGrid {
+    color : white;
+    font-size: max(calc(15px + 0.5vmin), 20px);
+    font-weight: bold;
+}
+
+.figure-caption {
+    color: white !important;
+    font-size: calc(15px + 0.5vmin) !important;
+    font-weight: bold;
+}
+
+.image-content {
+    min-width: 280px;
+}
+
+.text-content {
+    color: white;
+    padding: 40px;
+    min-width: 240px;
+    font-size: calc(15px + 0.5vmin) !important;
+}
+
+
+/* div { outline: 1px solid red !important; }
+header { outline: 1px solid red !important; } */
