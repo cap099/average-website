@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/average-website/static/css/main.ac7bdf56.css",
+    "main.js": "/average-website/static/js/main.c8bdfbab.js",
+    "static/js/787.8a09a023.chunk.js": "/average-website/static/js/787.8a09a023.chunk.js",
+    "static/media/headshot.png": "/average-website/static/media/headshot.e9cd9a02ff3aa61e1f53.png",
+    "static/media/services.png": "/average-website/static/media/services.af85b4f8baf4a86c298a.png",
+    "static/media/YelpLogoAugust2021.jpg": "/average-website/static/media/YelpLogoAugust2021.3ea7a416fc8199b8ee63.jpg",
+    "index.html": "/average-website/index.html",
+    "main.ac7bdf56.css.map": "/average-website/static/css/main.ac7bdf56.css.map",
+    "main.c8bdfbab.js.map": "/average-website/static/js/main.c8bdfbab.js.map",
+    "787.8a09a023.chunk.js.map": "/average-website/static/js/787.8a09a023.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7bdf56.css",
+    "static/js/main.c8bdfbab.js"
+  ]
+}
